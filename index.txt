@@ -1,2 +1,2 @@
-#index
+#line 0 by main
 
